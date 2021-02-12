@@ -1,0 +1,103 @@
+body
+{
+    background: url("./obrázek/pozadí.jpg");
+    background-size: cover;
+}
+
+.mm
+{
+    position: absolute;
+    top: 6%;
+    left: 0.40%;
+}
+
+.ms
+{
+    position: absolute;
+    top: 11%;
+    left: 0.40%;
+}
+
+.mk
+{
+    position: absolute;
+    top: 16%;
+    left: 0.40%; 
+}
+
+.mz
+{
+    position: absolute;
+    top: 21%;
+    left: 0.40%;   
+}
+
+.mš
+{
+    position: absolute;
+    top: 26%;
+    left: 0.40%;   
+}
+
+.mch
+{
+    position: absolute;
+    top: 31%;
+    left: 0.40%;   
+}
+
+.mb
+{
+    position: absolute;
+    top: 36%;
+    left: 0.40%;
+}
+
+.pm
+{
+    position: absolute;
+    top: 6%;
+    left: 18.34%;
+}
+
+.ps
+{
+    position: absolute;
+    top: 11%;
+    left: 18.34%;
+}
+
+.pk
+{
+    position: absolute;
+    top: 16%;
+    left: 18.34%;  
+}
+
+.pz
+{
+    position: absolute;
+    top: 21%;
+    left: 18.34%;  
+}
+
+.pš
+{
+    position: absolute;
+    top: 26%;
+    left: 18.34%;     
+}
+
+.pch
+{
+    position: absolute;
+    top: 31%;
+    left: 18.34%;     
+}
+
+.pb
+{
+    position: absolute;
+    top: 36%;
+    left: 18.34%;    
+}
