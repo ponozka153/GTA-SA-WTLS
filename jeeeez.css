@@ -53,6 +53,13 @@ body
     left: 0.40%;
 }
 
+.ml
+{
+    position: absolute;
+    top: 41%;
+    left: 0.40%;
+}
+
 .pm
 {
     position: absolute;
@@ -100,4 +107,11 @@ body
     position: absolute;
     top: 36%;
     left: 18.34%;    
+}
+
+.pl
+{
+    position: absolute;
+    top: 41%;
+    left: 18.34%;     
 }
