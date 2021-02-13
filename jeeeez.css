@@ -18,47 +18,49 @@ body
     left: 0.40%;
 }
 
-.mz
+.ml
 {
     position: absolute;
     top: 16%;
     left: 0.40%; 
 }
 
-.ms
+.mz
 {
     position: absolute;
     top: 21%;
     left: 0.40%;   
 }
 
-.mš
+.ms
 {
     position: absolute;
     top: 26%;
     left: 0.40%;   
 }
 
-.mch
+.mš
 {
     position: absolute;
     top: 31%;
     left: 0.40%;   
 }
 
-.mb
+.mch
 {
     position: absolute;
     top: 36%;
     left: 0.40%;
 }
 
-.ml
+.mb
 {
     position: absolute;
     top: 41%;
     left: 0.40%;
 }
+
+
 
 .pm
 {
@@ -74,42 +76,42 @@ body
     left: 18.34%;
 }
 
-.pz
+.pl
 {
     position: absolute;
     top: 16%;
     left: 18.34%;  
 }
 
-.ps
+.pz
 {
     position: absolute;
     top: 21%;
     left: 18.34%;  
 }
 
-.pš
+.ps
 {
     position: absolute;
     top: 26%;
     left: 18.34%;     
 }
 
-.pch
+.pš
 {
     position: absolute;
     top: 31%;
     left: 18.34%;     
 }
 
-.pb
+.pch
 {
     position: absolute;
     top: 36%;
     left: 18.34%;    
 }
 
-.pl
+.pb
 {
     position: absolute;
     top: 41%;
