@@ -2,6 +2,14 @@ body
 {
     background: url("./obrázek/pozadí.jpg");
     background-size: cover;
+    font-family: sans-serif;
+}
+
+.odkaz
+{
+    position: absolute;
+    top: 95%;
+    left: 0.40%;
 }
 
 .mm
